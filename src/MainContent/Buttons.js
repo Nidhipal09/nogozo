@@ -1,10 +1,11 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
-import { Button, Row, Col } from 'react-bootstrap';
+import { Card, Button, Row, Col } from 'react-bootstrap';
+import h from '../img/h.jpg';
 
 function Buttons() {
     return (
         <div style={{ marginTop: "30px", marginLeft: "190px" }}>
-            
+
             <Row>
                 <Button variant="primary" style={{ width: "95px", height: "40px" }}><b>9</b></Button>&nbsp;
                 <Button variant="primary" style={{ width: "95px", height: "40px" }}><b>10</b></Button>&nbsp;
@@ -17,7 +18,9 @@ function Buttons() {
                 <Button variant="primary" style={{ width: "95px", height: "40px" }}><b>Govt.</b></Button>&nbsp;
                 <Button variant="primary" style={{ width: "95px", height: "40px" }}><b>ENGG.</b></Button>&nbsp;
             </Row>
+
             
+
         </div>
     );
 }

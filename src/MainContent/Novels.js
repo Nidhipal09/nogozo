@@ -4,7 +4,7 @@ import './Novels.css'
 import p1 from '../img/1.jpeg';
 import p2 from '../img/2.jpeg';
 import p3 from '../img/3.jpeg';
-import s from '../img/s.jpeg';
+import s from '../img/s.png';
 import h from '../img/h.jpg';
 
 function Novels() {
@@ -187,7 +187,7 @@ function Novels() {
             </div>
             
             <h3 style={{  marginLeft: "20px" ,marginLeft: "26px", textAlign: "left"}}>ISC Board Best Picks</h3>
-            <div style={{ marginTop: "20px", marginLeft: "26px" }}>
+            <div style={{ marginTop: "20px", marginLeft: "26px" , marginBottom: "70px"}}>
                 
             <Row xs={1} md={4} className="g-4">
                 <Col>

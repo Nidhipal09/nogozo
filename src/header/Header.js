@@ -4,6 +4,7 @@ import { HiOutlineShoppingCart } from 'react-icons/hi';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Row, Col } from 'react-bootstrap';
 import './header.css'
+import logo from '../img/logo.png'
 
 function Header() {
 
@@ -15,7 +16,7 @@ function Header() {
                 </Col>
                 
                 <Col xs lg="10">
-                    <img src="img/logo.png" width="120px" height="30px"></img>
+                    <img src={logo} width="120px" height="30px"></img>
                 </Col>
                 <Col>
                     <span style={{ fontSize: "20px" }}><HiOutlineShoppingCart /></span>

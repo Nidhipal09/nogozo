@@ -1,7 +1,9 @@
 import 'bootstrap/dist/css/bootstrap.min.css';
 import { Carousel } from 'react-bootstrap';
 import './Carasoul.css';
-import c3 from '/img/c3.png';
+import c3 from '../img/c3.png';
+import c4 from '../img/c4.png';
+import c7 from '../img/c7.jpg';
 
 function CarouselFun() {
   return (
@@ -20,7 +22,7 @@ function CarouselFun() {
 
         <Carousel.Item>
           <img
-            src="/img/c4.png"
+            src={c4}
             alt="First slide"
             class="img"
           ></img>
@@ -28,7 +30,7 @@ function CarouselFun() {
 
         <Carousel.Item>
           <img
-            src="/img/c7.jpg"
+            src={c7}
             alt="First slide"
             class="img"
           ></img>

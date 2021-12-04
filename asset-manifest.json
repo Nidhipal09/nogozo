@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nogozo/static/css/main.61026179.chunk.css",
+    "main.js": "/nogozo/static/js/main.361a6653.chunk.js",
+    "main.js.map": "/nogozo/static/js/main.361a6653.chunk.js.map",
+    "runtime-main.js": "/nogozo/static/js/runtime-main.5f80eeb3.js",
+    "runtime-main.js.map": "/nogozo/static/js/runtime-main.5f80eeb3.js.map",
+    "static/css/2.0a9ec390.chunk.css": "/nogozo/static/css/2.0a9ec390.chunk.css",
+    "static/js/2.992fed35.chunk.js": "/nogozo/static/js/2.992fed35.chunk.js",
+    "static/js/2.992fed35.chunk.js.map": "/nogozo/static/js/2.992fed35.chunk.js.map",
+    "static/js/3.2990292a.chunk.js": "/nogozo/static/js/3.2990292a.chunk.js",
+    "static/js/3.2990292a.chunk.js.map": "/nogozo/static/js/3.2990292a.chunk.js.map",
+    "index.html": "/nogozo/index.html",
+    "static/css/2.0a9ec390.chunk.css.map": "/nogozo/static/css/2.0a9ec390.chunk.css.map",
+    "static/css/main.61026179.chunk.css.map": "/nogozo/static/css/main.61026179.chunk.css.map",
+    "static/js/2.992fed35.chunk.js.LICENSE.txt": "/nogozo/static/js/2.992fed35.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5f80eeb3.js",
+    "static/css/2.0a9ec390.chunk.css",
+    "static/js/2.992fed35.chunk.js",
+    "static/css/main.61026179.chunk.css",
+    "static/js/main.361a6653.chunk.js"
+  ]
+}

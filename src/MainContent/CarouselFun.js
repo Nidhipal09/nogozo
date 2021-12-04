@@ -13,7 +13,8 @@ function CarouselFun() {
             src="/img/c3.png"
             alt="First slide"
             class="img"
-          />
+          >
+            </img>
         </Carousel.Item>
 
         <Carousel.Item>
@@ -21,7 +22,7 @@ function CarouselFun() {
             src="/img/c4.png"
             alt="First slide"
             class="img"
-          />
+          ></img>
         </Carousel.Item>
 
         <Carousel.Item>
@@ -29,7 +30,7 @@ function CarouselFun() {
             src="/img/c7.jpg"
             alt="First slide"
             class="img"
-          />
+          ></img>
         </Carousel.Item>
         
       </Carousel>

@@ -11,17 +11,17 @@ function Novels() {
             <Row xs={1} md={6} className="g-4">
                 <Col>
                     <Card style={{ width: '200px', border: 'none' }} >
-                    <img class="imgnfu" src="/img/1.jpeg" height="250px" />
+                    <img class="imgnfu" src="/img/1.jpeg" height="250px" ></img>
                     </Card>
                 </Col>
                 <Col>
                     <Card style={{ width: '200px', border: 'none' }} >
-                    <img class="imgnfu" src="/img/2.jpeg" height="250px" />
+                    <img class="imgnfu" src="/img/2.jpeg" height="250px" ></img>
                     </Card>
                 </Col>
                 <Col>
                     <Card style={{ width: '200px', border: 'none' }} >
-                    <img class="imgnfu" src="/img/3.jpeg" height="250px" />
+                    <img class="imgnfu" src="/img/3.jpeg" height="250px" ></img>
                     </Card>
                 </Col>
             </Row>
@@ -34,22 +34,22 @@ function Novels() {
             <Row xs={1} md={4} className="g-4">
                 <Col>
                     <Card style={{ width: '280px', border: 'none' }} >
-                    <img class="imgnfu" src="/img/s.jpeg" height="140px" />
+                    <img class="imgnfu" src="/img/s.jpeg" height="140px"></img>
                     </Card>
                 </Col>
                 <Col>
                     <Card style={{ width: '280px', border: 'none' }} >
-                    <img class="imgnfu" src="/img/s.jpeg" height="140px" />
+                    <img class="imgnfu" src="/img/s.jpeg" height="140px"></img>
                     </Card>
                 </Col>
                 <Col>
                     <Card style={{ width: '280px', border: 'none' }} >
-                    <img class="imgnfu" src="/img/s.jpeg" height="140px" />
+                    <img class="imgnfu" src="/img/s.jpeg" height="140px"></img>
                     </Card>
                 </Col>
                 <Col>
                     <Card style={{ width: '280px', border: 'none' }} >
-                    <img class="imgnfu" src="/img/s.jpeg" height="140px" />
+                    <img class="imgnfu" src="/img/s.jpeg" height="140px"></img>
                     </Card>
                 </Col>
             </Row>
